@@ -1,3 +1,3 @@
-Flask
-mammoth
-PyPDF2
+Flask==2.1.2
+mammoth==1.4.2
+PyPDF2==1.26.0
